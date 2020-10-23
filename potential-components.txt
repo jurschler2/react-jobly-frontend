@@ -1,0 +1,21 @@
+- App
+- NavBar
+- Routes
+  - HomePage (Login and Logout Ternary)
+    -Logged-In
+    -Logged-Out
+      - Login-Form
+      - Signup-Form
+  - User-Profile-Form
+  - Job-List
+    - Search (Helper)
+    - Job-Individual
+  - Company-List
+    - Search (Helper)
+  - Company-Individual
+    - Job-List
+      - Job-Individual
+  
+  
+  Helpers/Custom Hooks?
+  - Search (Helper)
